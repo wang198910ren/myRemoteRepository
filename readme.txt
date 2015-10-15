@@ -1,2 +1,2 @@
-I like git
-git is good
+I like git very much
+git is  very good
